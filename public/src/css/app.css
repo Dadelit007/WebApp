@@ -1,0 +1,16 @@
+.text-center {
+  text-align: center;
+}
+
+.drawer-option {
+  padding: 16px;
+}
+#footer {
+  position: absolute;
+  bottom: 0;
+  background: #444444;
+  height: 100px;
+  font-family: 'Open Sans', sans-serif;
+  color: #FFFFFF;
+  padding: 20px;
+}
